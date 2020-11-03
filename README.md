@@ -1,2 +1,2 @@
 # FlayPab
- Authentication & Leaderboards
+https://devinhicks.github.io/FlayPab/
