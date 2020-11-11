@@ -26,7 +26,7 @@ public class Leaderboard : MonoBehaviour
     {
         GetLeaderboardRequest getLeaderboardRequest = new GetLeaderboardRequest
         {
-            StatisticName = "FastestTime",
+            StatisticName = "TallestStack",
             MaxResultsCount = 10
         };
 
